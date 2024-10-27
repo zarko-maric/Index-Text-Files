@@ -3,8 +3,6 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.util.Scanner;
 
-//test path: C:\\Users\\Zarko\\IdeaProjects\\Index Text Files\\Text Files
-
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
